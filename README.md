@@ -1,6 +1,3 @@
-Here's a well-formatted and professional version of your project description tailored for a GitHub `README.md` file:
-
----
 
 # 📊 Dashboard UI
 
@@ -181,6 +178,3 @@ Create a `jsconfig.json` file in the root for absolute imports:
 
 (https://github.com/MaheshMaddela123/shadcn-dashboard/issues/1#issue-3070270976)
 
----
-
-Let me know if you’d like help writing a sample `App.jsx`, routing file, or adding screenshots or deployment instructions.
