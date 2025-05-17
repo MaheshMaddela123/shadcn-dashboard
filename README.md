@@ -179,7 +179,7 @@ Create a `jsconfig.json` file in the root for absolute imports:
 
 ## 📸 Screenshots
 
-> *(Include some screenshots or a short demo video/gif here if available)*
+(https://github.com/MaheshMaddela123/shadcn-dashboard/issues/1#issue-3070270976)
 
 ---
 
